@@ -1,10 +1,4 @@
-git clone (github 的 http)
 
-在 clone 下來的資料夾內輸入使用者資料：
-
-git config user.name Elena10192002
-
-git config user.email elena10191326@gmail.com
 
 模組:
 Markdown All in One
