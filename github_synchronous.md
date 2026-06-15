@@ -8,7 +8,4 @@
     git config user.email elena10191326@gmail.com
 3. 新增檔案
 4. 完成筆記後save+s
-5. 終端機上輸入
-    git add .
-    git commit -m "更新內容"
-    git push
+5. 原始控制檔更新
